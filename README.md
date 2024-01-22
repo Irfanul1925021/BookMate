@@ -1,4 +1,4 @@
-# IIT_SPL_1-BookMate-
+#BookMate
 
 User can install this application in 3 ways :
 1.	Download & Run the .exe file: 
