@@ -1,4 +1,4 @@
-#BookMate
+#𝐁𝐨𝐨𝐤𝐌𝐚𝐭𝐞
 
 User can install this application in 3 ways :
 1.	Download & Run the .exe file: 
